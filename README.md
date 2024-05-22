@@ -1,6 +1,6 @@
 ## Min Jun Choi
-Master course student
-\\in Music & Audio Research Group(MARG), Seoul National University
+Master course student   
+in Music & Audio Research Group, Seoul National University
 
 ### Research Interest
 - HRTF
