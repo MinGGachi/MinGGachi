@@ -1,7 +1,12 @@
 ## Min Jun Choi
-### Currently master course in Music & Audio Research Group(MARG) in Seoul National University
-###
-### B.S. in Nuclear Engineering
+Master course student
+in Music & Audio Research Group(MARG), Seoul National University
+
+### Research Interest
+- HRTF
+- RIR Estimation
+- Neural Synthsizer
+
 
 <!--
 **MinGGachi/MinGGachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
