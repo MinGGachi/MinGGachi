@@ -1,11 +1,13 @@
 ## Min Jun Choi
-Master course student   
+Master Course Student   
 in Music & Audio Research Group, Seoul National University
+
+E-mail : <p><a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 
 ### Research Interest
 - HRTF
 - RIR Estimation
-- Neural Synthsizer
+- Neural Synthsizer / Physical Modeling
 
 
 <!--
