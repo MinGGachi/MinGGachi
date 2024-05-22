@@ -2,7 +2,7 @@
 Master Course Student   
 in Music & Audio Research Group, Seoul National University
 
-E-mail : <p><a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
+E-mail : <a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 
 ### Research Interest
 - HRTF
