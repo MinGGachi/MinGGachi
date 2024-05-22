@@ -1,4 +1,7 @@
-## Hi there 👋
+## Min Jun Choi
+### Currently master course in Music & Audio Research Group(MARG) in Seoul National University
+###
+### B.S. in Nuclear Engineering
 
 <!--
 **MinGGachi/MinGGachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
