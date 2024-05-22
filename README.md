@@ -4,10 +4,12 @@ in Music & Audio Research Group, Seoul National University
 
 E-mail : <a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 
+
 ### Research Interest
 - HRTF
 - RIR Estimation
-- Neural Synthsizer / Physical Modeling
+- Neural Synthsis
+- Physical Modeling Synthesis
 
 
 <!--
