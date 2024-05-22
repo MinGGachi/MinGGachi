@@ -8,8 +8,9 @@ E-mail : <a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 ### Research Interest
 - HRTF
 - RIR Estimation
-- Neural Synthsis
 - Physical Modeling Synthesis
+- Neural Synthesis
+
 
 
 <!--
