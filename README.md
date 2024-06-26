@@ -6,10 +6,10 @@ E-mail : <a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 
 
 ### Research Interest
-- HRTF
+- HRTF Modeling
 - RIR Estimation
-- Physical Modeling Synthesis
-- Neural Synthesis
+- Speech Enhancement
+- Audio Synthesis
 
 
 
