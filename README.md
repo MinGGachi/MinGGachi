@@ -4,9 +4,9 @@ Master's Student in Music & Audio Research Group, Seoul National University
 E-mail : <a href="mailto:choimj21@snu.ac.kr">choimj21@snu.ac.kr</a></p>
 
 ### Research Interest
+- Speech Processing
 - HRTF Modeling
-- RIR Estimation
-- Audio Synthesis
+- RIR Modeling
 
 
 <!--
